@@ -1,0 +1,8 @@
+A simple server simulator written in Qt using Qt Messaging. This parses an incoming sms and creates a prototype ticket and sends it as response.
+Ex: Request sms for Travelling from BGT to SC for 2 passengers can be
+BGT SC 2
+
+Currenly source and destinations are not verified.
+
+
+

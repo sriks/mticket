@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/222/trunk/ServerSimulator/qmlapplicationviewer
+END
+qmlapplicationviewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/222/trunk/ServerSimulator/qmlapplicationviewer/qmlapplicationviewer.cpp
+END
+qmlapplicationviewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/222/trunk/ServerSimulator/qmlapplicationviewer/qmlapplicationviewer.h
+END
+qmlapplicationviewer.pri
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/222/trunk/ServerSimulator/qmlapplicationviewer/qmlapplicationviewer.pri
+END
